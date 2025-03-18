@@ -1,1 +1,4 @@
 print("hola mundo")
+wasa1=1
+wasa2=2
+print(wasa1+wasa2)
